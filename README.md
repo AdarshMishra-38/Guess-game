@@ -1,1 +1,2 @@
 # Guess-game
+Welcome to the 'Guess the Number' game! This is a simple and entertaining JavaScript-based game where your goal is to guess a hidden number within a specified range. Test your intuition and deduction skills as you make educated guesses to narrow down the mystery number. With each attempt, you'll receive hints to guide you closer to your target. Whether you're a beginner or a seasoned gamer, 'Guess the Number' offers an enjoyable challenge for everyone. Get ready to have fun and see how quickly you can uncover the secret number!
